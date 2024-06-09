@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srichand Suresh</h1>
-<h3 align="left">I'm a passionate student with a keen interest in ethical hacking and cybersecurity. I have a solid foundation in web development, with expertise in Express.js, Node.js, and React. I'm constantly seeking new challenges and opportunities to expand my skills in the tech industry. When I'm not coding, you can find me exploring the latest trends in ethical hacking and cybersecurity.</h3>
+<h3 align="left">I'm a passionate student with a keen interest in data science. I have a solid foundation in web development, with expertise in Express.js, Node.js, and React. I'm constantly seeking new challenges and opportunities to expand my skills in the tech industry. I am currently exploring the fields of data science.....</h3>
 
 
 

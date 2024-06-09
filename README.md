@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **srichandsureshrocks@gmail.com**
 
-- ⚡ Fun fact **I am really into Gadgets :)**
+- ⚡ **I am really into Gadgets :)**
 
 
 

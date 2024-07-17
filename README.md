@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srichand Suresh</h1>
 <h3 align="left">I'm a passionate student with a keen interest in data science. I have a solid foundation in web development, with expertise in Express.js, Node.js, and React. I'm constantly seeking new challenges and opportunities to expand my skills in the tech industry. I am currently exploring the fields of data science.....</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apollo-blaze&label=Profile%20views&color=0e75b6&style=flat" alt="apollo-blaze" /> </p>
 
 - 📫 How to reach me **srichandsureshrocks@gmail.com**
 

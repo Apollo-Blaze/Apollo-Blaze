@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apollo-blaze&label=Profile%20views&color=0e75b6&style=flat" alt="apollo-blaze" /> </p>
 
-![snake gif](https://github.com/Apollo-Blaze/Apollo-Blaze/blob/output/github-contribution-grid-snake.gif)
-
 
 # 💻 Tech Stack:
 

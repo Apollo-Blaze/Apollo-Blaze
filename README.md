@@ -26,7 +26,7 @@
 
 ---
 
-### 🌟 Featured Projects  
+### 🌟 Projects Born from Overthinking
 
 - **Nap-Buster**: A computer vision project that intelligently prevents your device from going to sleep by detecting your presence.  
 - **Eko**: A platform connecting people with technicians to give electronics a second life.  
@@ -37,7 +37,7 @@
 ---
 
 
-### 🌐 Connect With Me  
+### 🌐 Contact deets for my therapist 
 - 💼 **LinkedIn**: [Srichand Suresh](https://www.linkedin.com/in/srichand-suresh-67b7b3279/)  
 - 📂 **Portfolio**: [Apollo-Blaze](https://apolloblaze.vercel.app/)  
 - 📧 **Email**: srichandsureshrocks@gmail.com

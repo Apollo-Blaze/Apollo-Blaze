@@ -44,10 +44,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200" alt="Creative GIF">
-</p>  
-
 ✨ *"Life isn’t perfect, but it’s a lot more fun when you stop trying to make it so. Just 🐝 happy...."*
 
 
